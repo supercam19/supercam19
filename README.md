@@ -5,7 +5,9 @@ I mostly use python and create Minecraft datapacks, but I know a bit of some oth
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercam19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About my projects 🛠
-I am currently working on [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
+I am currently working on:
+- 🛠 Several new unreleased projects in progress...
+- 🐤 [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
 
 I am currently maintaining: 
  - 📙 [Enchantment Details](https://github.com/supercam19/EnchantmentDetails), a Minecraft datapack that adds descriptions to enchantment books.

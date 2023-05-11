@@ -6,7 +6,7 @@ I mostly use python and create Minecraft datapacks, but I know a bit of some oth
 
 ## About my projects 🛠
 I am currently working on:
-- 🛠 Several new unreleased projects in progress...
+- ⚔ [Custom Item Generator](https://supercam19.me/CustomItemGenerator), a custom item generator for vanilla Minecraft.
 - 🐤 [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
 
 I am currently maintaining: 

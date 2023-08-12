@@ -1,7 +1,7 @@
 ## About me
 I'm a Canadian high school student interested in computer science and robotics.
 
-I mostly use python and create Minecraft datapacks, but I know a bit of some other languages too.
+I mostly use python and create Minecraft datapacks, but I know a bit of some other languages too.<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercam19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About my projects 🛠

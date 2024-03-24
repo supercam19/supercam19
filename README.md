@@ -6,9 +6,10 @@ I mostly use python and create Minecraft datapacks, but I know a bit of some oth
 
 ## About my projects 🛠
 I am currently working on:
-- 🐤 [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
+- 🖥 [Game Monitor](https://www.github.com/supercam19/GameMonitor), a program to let you play fullscreen games on any monitor.
 
 I am currently maintaining: 
+- 🐤 [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
  - 📙 [Enchantment Details](https://github.com/supercam19/EnchantmentDetails), a Minecraft datapack that adds descriptions to enchantment books.
  - 💧 [Delta](https://github.com/supercam19/Delta), a general usage Rainmeter package.
 

@@ -1,29 +1,6 @@
 ## About me
-I'm a Canadian high school student interested in computer science and robotics.
+University of Ottawa Software Engineering Undergrad [2028]
 
-Find me [here on itch.io](https://supercam19.itch.io)! I sometimes participate in game jams.<br><br>
+I do gamejams. [My itch.io](https://supercam19.itch.io) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supercam19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## About my projects 🛠
-I am currently working on:
-- 🖥 [Game Monitor](https://www.github.com/supercam19/GameMonitor), a program to let you play fullscreen games on any monitor.
-
-I am currently maintaining: 
-- 🐤 [SMAPI Profile Manager](https://www.github.com/supercam19/SMAPI-profile-manager), a mod profile manager for Stardew Valley.
- - 📙 [Enchantment Details](https://github.com/supercam19/EnchantmentDetails), a Minecraft datapack that adds descriptions to enchantment books.
- - 💧 [Delta](https://github.com/supercam19/Delta), a general usage Rainmeter package.
-
-<!--
-**supercam19/supercam19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
